@@ -1,0 +1,3 @@
+https://docs.google.com/document/d/18AS9ucFGXp4S1lNndM6BzqqDXRFbTtzdoxS8bUQWzD4/edit?usp=sharing
+
+Pull request with this functionality implemented is available here: https://github.com/vbarzana/jamming-codecademy/pull/2
